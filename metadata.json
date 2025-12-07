@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DeepThink Agent",
+  "description": "An autonomous mobile-first research agent that plans, verifies, and executes complex research tasks to generate comprehensive reports using Gemini 2.5.",
+  "requestFramePermissions": []
+}
